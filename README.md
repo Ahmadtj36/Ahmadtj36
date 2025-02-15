@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmadtj36
-- 👀 I’m interested in Data Analysis, web development, arduino programming
-- 🌱 I’m currently learning Data Analysis, Arduino programming
+- 👀 I’m interested in Data Analysis, arduino programming
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email @ Ibrahimtijjani76@gmail.com
 
